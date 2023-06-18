@@ -185,18 +185,18 @@ READ_LOCK_STATUS   = TRUE
     INF MdeModulePkg/Universal/Acpi/BootGraphicsResourceTableDxe/BootGraphicsResourceTableDxe.inf
 
     FILE FREEFORM = 7E374E25-8E01-4FEE-87F2-390C23C606CD {
-        SECTION RAW = Platforms/Msm8998ACPI/LG/joan/dsdt.aml
+        SECTION RAW = Platforms/Msm8998ACPI/LG/phoenix/dsdt.aml
         SECTION RAW = Platforms/Msm8998ACPI/Common/build/CSRT.aml
         SECTION RAW = Platforms/Msm8998ACPI/Common/build/DBG2.aml
       # SECTION RAW = Platforms/Msm8998ACPI/Common/build/FACP.aml
       # SECTION RAW = Platforms/Msm8998ACPI/Common/build/FACS.aml
-        SECTION RAW = Platforms/Msm8998ACPI/LG/joan/TEST/acpi-hp-envy-x2-facs.dat
-        SECTION RAW = Platforms/Msm8998ACPI/LG/joan/TEST/acpi-hp-envy-x2-facp.dat
-      # SECTION RAW = Platforms/Msm8998ACPI/LG/joan/TEST/acpi-hp-envy-x2-ssdt.dat
-        SECTION RAW = Platforms/Msm8998ACPI/LG/joan/TEST/acpi-hp-envy-x2-ssdt1.dat
-        SECTION RAW = Platforms/Msm8998ACPI/LG/joan/TEST/acpi-hp-envy-x2-ssdt2.dat
-        SECTION RAW = Platforms/Msm8998ACPI/LG/joan/TEST/acpi-hp-envy-x2-ssdt3.dat
-        SECTION RAW = Platforms/Msm8998ACPI/LG/joan/TEST/acpi-hp-envy-x2-xsdt.dat
+        SECTION RAW = Platforms/Msm8998ACPI/LG/phoenix/TEST/acpi-hp-envy-x2-facs.dat
+        SECTION RAW = Platforms/Msm8998ACPI/LG/phoenix/TEST/acpi-hp-envy-x2-facp.dat
+      # SECTION RAW = Platforms/Msm8998ACPI/LG/phoenix/TEST/acpi-hp-envy-x2-ssdt.dat
+        SECTION RAW = Platforms/Msm8998ACPI/LG/phoenix/TEST/acpi-hp-envy-x2-ssdt1.dat
+        SECTION RAW = Platforms/Msm8998ACPI/LG/phoenix/TEST/acpi-hp-envy-x2-ssdt2.dat
+        SECTION RAW = Platforms/Msm8998ACPI/LG/phoenix/TEST/acpi-hp-envy-x2-ssdt3.dat
+        SECTION RAW = Platforms/Msm8998ACPI/LG/phoenix/TEST/acpi-hp-envy-x2-xsdt.dat
         SECTION RAW = Platforms/Msm8998ACPI/Common/build/GTDT.aml
         SECTION RAW = Platforms/Msm8998ACPI/Common/build/IORT.aml
         SECTION RAW = Platforms/Msm8998ACPI/Common/build/Madt.aml

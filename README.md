@@ -20,6 +20,7 @@
 | OnePlus 5                | cheeseburger           | ✅            |
 | OnePlus 5T               | dumpling               | ✅            |
 | LG V30                   | joan                   | ✅            |
+| LG Q9 One                | phoenix                | ✅            |
 | Xiaomi Mi6               | sagit                  | ✅            |
 | Xiaomi Mi Mix 2          | chiron                 | ✅            |
 | Essential Phone PH-1     | mata                   | ✅            |
