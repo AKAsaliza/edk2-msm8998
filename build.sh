@@ -6,7 +6,7 @@ DEVICES=(
     chiron
     sagit
     joan
-	phoeix
+	phoenix
     cheeseburger
     dumpling
     htc_ocmdtwl
